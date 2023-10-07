@@ -25,7 +25,7 @@ Seraphalia picks up the stone they were stone skipping with and notices how perf
 
 Having scouted the cave, Dax knows there's a hidden goblin scout on a bridge watching for intruders. Seraphalia enters stealthily and puts him to sleep with magic before he can do anything. Then, Skarr heroically climbs up the walls of the cave to reach the bridge and throws the sleeping goblin to dax. The party binds and gags the goblin and leaves him outside the cave. 
 
-They go back in and meet a family of tied wolves in a small chamber. The wolves snarl at the party as Skarr approaches with peaceful intentions and then throws the bound (dead?) goblin to them. The wolves's aggressivity seems to die down as the accept this gift of meat and devour the gnome. 
+They go back in and meet a family of tied wolves in a small chamber. The wolves snarl at the party as Skarr approaches with peaceful intentions and then throws the bound goblin to them. The wolves's aggressivity seems to die down as the accept this gift of meat and devour the gnome. 
 
 Then Serah climbs up 30-feet up the natural chimney in the east side of the room and scouts the area, finding a hobgoblin accompanied by a wolf and some goblins henchmen. She goes back down and after some deliberation the party decides to lure the boss down, so Seraphalia, lacking any formal training on acting, decides that the best way to do so is speaking in (terrible) goblin accent and without changing her voice at all. Needless to say, the ruse does not suceed. T
 
