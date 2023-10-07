@@ -13,11 +13,7 @@ You ride a caravan with two oxen and head off into the road with Gundren and eve
 
 After an hour or so, you enter a clearing with the horses of Gundren and Sildar in a bloody puddle. Before you can do anything, you are waylaid by goblins and you must defend yourselves. A bloody battle ensues in which Skarr is almost felled, and one ox definiteily is, but you emerge victorious, though bloody. 
 
-One of the goblins is alive, and you bind him before he can make his escape. Darion decides to perform a card trick for the goblin, and he does it so masterfully that the goblin becomes convinced that Darion has mighty wizard powers, and cowers before him. The party has then no problem extracting information from the creature. The party learns that:
-
- - Gundren has been taken **King Groll** which resides in **Cragmaw Castle**, and gives rough directions on how to get there
- - Sildar Hallwinter has been taken to the **Crawmag Hideout**, and offers the party help in getting there safely.
- - Klaga received a messenger goblin from King Grol telling her that someone named the Black Spider was paying the Cragmaws to watch out for Gundren Rockseeker, to capture him and send him and anything he was carrying back to King Grol. Klarga followed orders, taking the dwarf, his personal effects and a map.
+One of the goblins is alive, and you bind him before he can make his escape. Darion decides to perform a card trick for the goblin, and he does it so masterfully that the goblin becomes convinced that Darion has mighty wizard powers, and cowers before him. The party has then no problem extracting information from the creature. The party learns a bunch of important. 
 
 After much deliberation, and with a dead ox, the party decides to make their way to the hideout. They discover a cave, the entrance at the foot of a good-sized hill, and a stream going in through it. There, Dax turns into a giant badger and scouts the area. Then, the party tries to make their way to the cave but are found out by two watchmen goblin who happened to be stone skipping. The goblin try to go back into the cave but are felled quickly by the party. 
 
