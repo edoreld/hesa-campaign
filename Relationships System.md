@@ -1,4 +1,4 @@
-Version: 0.0.5 (BETA)
+Version: 0.0.6 (BETA)
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
@@ -16,16 +16,16 @@ Here are the currently available relationship levels.
 
 Characters have become good friends and can rely on each other in times of need.
 
- - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
- - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you get a +1 to your attack roll against that target
+  - Once per short rest, and when standing next to each other, if an enemy makes makes an attack against either one of you, the non-attacked player can use their reaction to provide the attacked player with a bonus of +1 to AC for that one attack. 
 
 Requirements: Acquaintance
 
 #### Close Friendship
 
 The bond has deepened to the point where characters actively look out for each other's well-being.    
- 
-  - Once per short rest, and when standing next to each other, if an enemy makes makes an attack against either one of you, either of you can use their reaction to provide the attacked player with a bonus of +1 to AC. This bonus can be used after the attack roll has been made, but before knowing if the roll succeeded or failed. 
+
+ - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
+ - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you get a +1 to your attack roll against that target
   - Friendship's boons
 
 Requirements: Friendship
@@ -149,6 +149,7 @@ Granting relationship levels is the result of shared struggles and experiences a
   
 #### Changelog
 
+0.0.6: switched boons of friendship and close friendship
 0.0.5: remove being able to choose your ability modifier part
 0.0.4: make a fixed number for the required Training Successes
 0.0.3: more fixes
