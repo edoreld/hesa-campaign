@@ -1,14 +1,10 @@
-Version: 0.0.3
+Version: 0.0.5 (BETA)
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
 ## Relationship Levels
 
-Relationships reflect the depth of your bonds.
-
-Granting relationship levels is the result of shared struggles and experiences and remains at the sole discretion of the dungeon master.  
-  
-Here's a list of possible relationships.
+Here are the currently available relationship levels. 
 
 ### Relationship Levels
 
@@ -20,8 +16,8 @@ Here's a list of possible relationships.
 
 Characters have become good friends and can rely on each other in times of need.
 
- - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that enemy. 
- - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you can add 
+ - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
+ - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you get a +1 to your attack roll against that target
 
 Requirements: Acquaintance
 
@@ -80,7 +76,7 @@ Pick something you want to learn - a tool, weapon, language or skill - and then 
 | Language        | Intelligence                         |
 | Skill           | Varies                               |
 | Tool            | Varies                               |
-| Weapon            | Strength or Dexterity (if finesse) |
+| Weapon          | Strength or Dexterity (if finesse)   |
 ```
 
 
@@ -94,7 +90,7 @@ You can only make a Training Check once per day. If you practice for an addition
 
 #### Relevant Abilities
 
-Your relevant ability modifier, that you choose when you first began training, allows you to automatically succeed and make progress on your Training Check a number of times equal to the ability modifier, up to a maximum of five times. This means that your die size automatically decreases a number of times equal to your modifier. See the chart below.
+Your relevant ability modifier allows you to automatically succeed and make progress on your Training Check a number of times equal to the ability modifier, up to a maximum of five times. This means that your die size automatically decreases a number of times equal to your modifier. See the chart below.
 
 |Ability Modifier|Your Starting Die Size|
 |---|---|
@@ -146,9 +142,15 @@ Here are the relevant ability modifiers for certain skills
 |Weaver's Tools||Dexterity|
 |Woodcarver's Tools||Dexterity|
 
+
+### Notes
+
+Granting relationship levels is the result of shared struggles and experiences and remains at the sole discretion of the dungeon master.  
+  
 #### Changelog
 
-0.0.4: make a fixed number for the required Training Succeses
+0.0.5: remove being able to choose your ability modifier part
+0.0.4: make a fixed number for the required Training Successes
 0.0.3: more fixes
 0.0.2: remove redundancies, change trusted ally boon
 0.0.1: fix grammar
