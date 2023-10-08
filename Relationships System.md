@@ -1,22 +1,29 @@
+Version: 0.0.2
+
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
 ## Relationship Levels
 
-Relationships reflect the depth of your bonds. Here's a list of possible relationships
+Relationships reflect the depth of your bonds.
 
-### Acquaintance
+### 
+Here's a list of possible relationships
+
+### Relationship Levels
+
+#### Acquaintance
 
  - At this level, characters are getting to know each other but haven't formed a deep bond yet.
 
-### Frienship
+#### Friendship
 
 Characters have become good friends and can rely on each other in times of need.
 
- - Whenever you both are facing an enemy that you both can reach with your weapon, and you are not currently flanking, you may add +1 to your attack roll against that enemy. 
+ - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that enemy. 
 
 Requirements: Acquaintance
 
-### Close Friendship
+#### Close Friendship
 
 The bond has deepened to the point where characters actively look out for each other's well-being.    
  
@@ -25,26 +32,26 @@ The bond has deepened to the point where characters actively look out for each o
 
 Requirements: Friendship
 
-### Trusted Ally
+#### Trusted Ally
 
 These characters trust each other implicitly and can share their intentions effortlessly.
 
- - You have advantage on intelligence checks on non-verbal communication where one of you is trying to convey some message or intention to another.
+ - You can help your ally with an ability check for which you have no proficiency, giving the roll a +2 bonus
  - Close Friendship's boons
  
  Requirements: Close Friendship
 
-### Love Interest
+#### Love Interest
 
 Characters have developed a romantic connection that fuels their strength in times of crisis.
 
-- Characters have a +1 to any saving throw made against being charmed by creatures who are not their love interest.
+- Jealously: characters have a +1 to any saving throw made against being charmed by creatures who are not their love interest.
 - Characters proficients in Medicine have advantage on Wisdom checks made to stabilizie the other character. If they are not proficient in medicine, they get a +2 to the roll.
 - Trusted Ally's boons
 
 Requirements: Trusted Ally
 
-### Mentorship
+#### Mentorship
 
 One character has taken on the role of a mentor, guiding and teaching the other.    
 
@@ -69,12 +76,14 @@ You may only learn a number of proficiencies equal to double your intelligence m
 
 Pick something you want to learn - a tool, weapon, language or skill - and then determine the appropriate ability for that proficiency. 
 
+```markdown
 | New Proficiency | Ability Required                   |
 |-----------------|------------------------------------|
 | Language        | Intelligence                       |
 | Skill           | Varies                             |
 | Tool            | Varies                             |
 | Tool            | Strength or Dexterity (if finesse) |
+```
 
 
 Once you have selected what you wish to train, and have chosen the proper ability score, you can then spend four hours and at the end of practice, you can then roll a d20. This is your Training Check and on the result of a 1, you have successfully made progress on training your new proficiency. You can now roll a d12 instead of a d20 when you make your next Training Check.
@@ -106,36 +115,36 @@ Certain proficiencies will require a cost in gold to pay for supplies and materi
 
 Here are the relevant ability modifiers for certains skills
 
-|Tool Set|Ability|
-|---|---|
-|Alchemist's Supplies|Intelligence|
-|Brewer’s Supplies|Wisdom|
-|Calligrapher's Supplies|Intelligence|
-|Carpenter's Kit|Strength|
-|Cartographer's Tools|Wisdom|
-|Cobbler's Tools|Dexterity|
-|Cooking Utensils|Intelligence or Wisdom|
-|Climbers Kit|Strength|
-|Disguise Kit|Charisma|
-|Forgery Kit|Dexterity|
-|Gaming Sets|Dexterity or Wisdom|
-|Glassblower's Tools|Dexterity|
-|Gunsmith's Kit*|Intelligence|
-|Healer’s Kit|Wisdom|
-|Herbalism Kit|Wisdom|
-|Jeweler's Tools|Dexterity|
-|Leatherworker's Tools|Dexterity|
-|Mason’s Tools|Strength|
-|Musical Instruments|Charisma|
-|Navigator's Tools|Wisdom|
-|Painter's Supplies|Dexterity|
-|Poisoner's Kit|Intelligence|
-|Potter's Tools|Dexterity|
-|Scrollscriber's Supplies*|Intelligence|
-|Smith’s Tools|Strength|
-|Thieves' Tools|Dexterity or Intelligence|
-|Tinker’s Tools|Intelligence|
-|Wandmaker's Tools*|Dexterity, Intelligence,  <br>or Wisdom|
-|Weaver's Tools|Dexterity|
-|Woodcarver's Tools|Dexterity|
+|Tool Set||Ability|
+|---|---|---|
+|Alchemist's Supplies||Intelligence|
+|Brewer’s Supplies||Wisdom|
+|Calligrapher's Supplies||Intelligence|
+|Carpenter's Kit||Strength|
+|Cartographer's Tools||Wisdom|
+|Cobbler's Tools||Dexterity|
+|Cooking Utensils||Intelligence or Wisdom|
+|Climbers Kit||Strength|
+|Disguise Kit||Charisma|
+|Forgery Kit||Dexterity|
+|Gaming Sets||Dexterity or Wisdom|
+|Glassblower's Tools||Dexterity|
+|Gunsmith's Kit*||Intelligence|
+|Healer’s Kit||Wisdom|
+|Herbalism Kit||Wisdom|
+|Jeweler's Tools||Dexterity|
+|Leatherworker's Tools||Dexterity|
+|Mason’s Tools||Strength|
+|Musical Instruments||Charisma|
+|Navigator's Tools||Wisdom|
+|Painter's Supplies||Dexterity|
+|Poisoner's Kit||Intelligence|
+|Potter's Tools||Dexterity|
+|Scrollscriber's Supplies*||Intelligence|
+|Smith’s Tools||Strength|
+|Thieves' Tools||Dexterity or Intelligence|
+|Tinker’s Tools||Intelligence|
+|Wandmaker's Tools*||Dexterity, Intelligence,  <br>or Wisdom|
+|Weaver's Tools||Dexterity|
+|Woodcarver's Tools||Dexterity|
 
