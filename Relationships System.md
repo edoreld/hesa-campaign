@@ -21,6 +21,7 @@ Here's a list of possible relationships.
 Characters have become good friends and can rely on each other in times of need.
 
  - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that enemy. 
+ - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you can add 
 
 Requirements: Acquaintance
 
@@ -87,7 +88,7 @@ Once you have selected what you wish to train, and have chosen the proper abilit
 
 The Training Check die continues to decrease in size on every result of a maximum amount. This means that your Training Check die will begin as a d20, and then slowly get smaller as you increase your own understanding and make progress on your training. It goes from a d20 to a d12, d10, d8, d6, and last a d4.
 
-Once you roll a 4 on a d4, you mark a Training Success and you must gain a number of Training Successes equal to your Proficiency Bonus. Once you gain a number of required Training Successes, you are considered proficient.
+Once you roll a 4 on a d4, you mark a Training Success and you must gain a number of Training Successes equal 4. Once you gain a number of required Training Successes, you are considered proficient.
 
 You can only make a Training Check once per day. If you practice for an additional 4 hours a day, for a total of 8 hours, on a result of a 19 or 20 on the die, you can make progress and move on to the next die. Spending additional time training has no additional effect on a d4.
 
@@ -147,6 +148,7 @@ Here are the relevant ability modifiers for certain skills
 
 #### Changelog
 
+0.0.4: make a fixed number for the required Training Succeses
 0.0.3: more fixes
 0.0.2: remove redundancies, change trusted ally boon
 0.0.1: fix grammar
