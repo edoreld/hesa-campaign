@@ -64,10 +64,6 @@ Requirements: Close Friendship or Higher
 
 In order to learn a new skill, tool or weapon, you must train at least 4 hours a day with your mentor. After this time training, you can attempt a Training check in order to incerease your understanding. 
 
-### Limited by your mentor's skill
-
-You may only learn something that your mentor is proficient with
-
 ### Limited by intelligence
 
 You may only learn a number of proficiencies equal to double your intelligence modifier (minimum 1)
