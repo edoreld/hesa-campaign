@@ -1,4 +1,4 @@
-Version: 0.0.2
+Version: 0.0.3
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
@@ -6,8 +6,9 @@ Introducing a character-to-character relationship system. As your bond with othe
 
 Relationships reflect the depth of your bonds.
 
-### 
-Here's a list of possible relationships
+Granting relationship levels is the result of shared struggles and experiences and remains at the sole discretion of the dungeon master.  
+  
+Here's a list of possible relationships.
 
 ### Relationship Levels
 
@@ -46,7 +47,7 @@ These characters trust each other implicitly and can share their intentions effo
 Characters have developed a romantic connection that fuels their strength in times of crisis.
 
 - Jealously: characters have a +1 to any saving throw made against being charmed by creatures who are not their love interest.
-- Characters proficients in Medicine have advantage on Wisdom checks made to stabilizie the other character. If they are not proficient in medicine, they get a +2 to the roll.
+- Characters proficients in Medicine have advantage on Wisdom checks made to stabilize the other character. If they are not proficient in medicine, they get a +2 to the roll.
 - Trusted Ally's boons
 
 Requirements: Trusted Ally
@@ -73,22 +74,22 @@ You may only learn a number of proficiencies equal to double your intelligence m
 Pick something you want to learn - a tool, weapon, language or skill - and then determine the appropriate ability for that proficiency. 
 
 ```markdown
-| New Proficiency | Ability Required                   |
-|-----------------|------------------------------------|
-| Language        | Intelligence                       |
-| Skill           | Varies                             |
-| Tool            | Varies                             |
-| Tool            | Strength or Dexterity (if finesse) |
+| New Proficiency | Ability Required                     |
+|-----------------|--------------------------------------|
+| Language        | Intelligence                         |
+| Skill           | Varies                               |
+| Tool            | Varies                               |
+| Weapon            | Strength or Dexterity (if finesse) |
 ```
 
 
-Once you have selected what you wish to train, and have chosen the proper ability score, you can then spend four hours and at the end of practice, you can then roll a d20. This is your Training Check and on the result of a 1, you have successfully made progress on training your new proficiency. You can now roll a d12 instead of a d20 when you make your next Training Check.
+Once you have selected what you wish to train, and have chosen the proper ability score, you can then spend four hours and at the end of practice, you can then roll a d20. This is your Training Check and if you roll the maximum amount, you have successfully made progress on training your new proficiency. You can now roll a d12 instead of a d20 when you make your next Training Check.
 
-The Training Check die continues to decrease in size on every result of a 1. This means that your Training Check die will begin as a d20, and then slowly get smaller as you increase your own understanding and make progress on your training. It goes from a d20 to a d12, d10, d8, d6, and last a d4.
+The Training Check die continues to decrease in size on every result of a maximum amount. This means that your Training Check die will begin as a d20, and then slowly get smaller as you increase your own understanding and make progress on your training. It goes from a d20 to a d12, d10, d8, d6, and last a d4.
 
-Once you roll a 1 on a d4, you mark a Training Success and you must gain a number of Training Successes equal to your Proficiency Bonus. Once you gain a number of required Training Successes, you are considered proficient.
+Once you roll a 4 on a d4, you mark a Training Success and you must gain a number of Training Successes equal to your Proficiency Bonus. Once you gain a number of required Training Successes, you are considered proficient.
 
-You can only make a Training Check once per day. If you practice for an additional 4 hours a day, for a total of 8 hours, on a result of a 1 or 2 on the die, you can make progress and move on to the next die. Spending additional time training has no additional effect on a d4.
+You can only make a Training Check once per day. If you practice for an additional 4 hours a day, for a total of 8 hours, on a result of a 19 or 20 on the die, you can make progress and move on to the next die. Spending additional time training has no additional effect on a d4.
 
 #### Relevant Abilities
 
@@ -103,13 +104,13 @@ Your relevant ability modifier, that you choose when you first began training, a
 |+4|d6|
 |+5|d4|
 
-If you are a 2nd level Cleric with a +3 bonus to Wisdom and you wish to learn the Medicine skill, you would start out with a d8 for your Training Check. At the end of 4 hours where you practiced and studied medicine, anatomy, and health - you would then roll a d8. On a roll of 1, you would then move on to a d6 for the check. You would repeat this Training Check until you gained 2 successes on a d4 die.
+If you are a 2nd level Cleric with a +3 bonus to Wisdom and you wish to learn the Medicine skill, you would start out with a d8 for your Training Check. At the end of 4 hours where you practiced and studied medicine, anatomy, and health - you would then roll a d8. On a roll of 8, you would then move on to a d6 for the check. You would repeat this Training Check until you gained 2 successes on a d4 die.
 
 #### Training Costs
 
 Certain proficiencies will require a cost in gold to pay for supplies and materials. On average, the cost is 2gp per day, but it may be lower or higher depending of what is being trained.
 
-Here are the relevant ability modifiers for certains skills
+Here are the relevant ability modifiers for certain skills
 
 |Tool Set||Ability|
 |---|---|---|
@@ -144,3 +145,8 @@ Here are the relevant ability modifiers for certains skills
 |Weaver's Tools||Dexterity|
 |Woodcarver's Tools||Dexterity|
 
+#### Changelog
+
+0.0.3: more fixes
+0.0.2: remove redundancies, change trusted ally boon
+0.0.1: fix grammar
