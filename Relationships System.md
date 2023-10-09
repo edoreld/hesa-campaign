@@ -1,4 +1,4 @@
-Version: 0.0.8 (BETA)
+Version: 0.0.9 (BETA)
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
@@ -38,18 +38,20 @@ Here are the currently available relationship levels.
 #### Friendship
 
 Characters have become good friends and can rely on each other in times of need.
+Gain a d8 boon
 
 Requirements: Acquaintance
 
 #### Close Friendship
 
 The bond has deepened to the point where characters actively look out for each other's well-being.    
-
+Gain a d12 boon
 Requirements: Friendship
 
 #### Trusted Ally
 
 These characters trust each other implicitly and can share their intentions effortlessly.
+Gain a d20 boon
 
 Requirements: Close Friendship
 
@@ -150,6 +152,7 @@ Granting relationship levels is the result of shared struggles and experiences a
   
 #### Changelog
 
+0.0.9: added gained boons to levels
 0.0.8: removed love interest 
 0.0.7: reworked the boons system
 0.0.6: switched boons of friendship and close friendship
