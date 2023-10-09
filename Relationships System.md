@@ -1,4 +1,4 @@
-Version: 0.0.7 (BETA)
+Version: 0.0.8 (BETA)
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
@@ -12,7 +12,7 @@ Depending on the chosen boon, I will assign a difficulty die, either a dice of d
 
 Then, you need to spend 2 hours every day working on learning whatever it is you want to do together. At the end of 2 hours, do a Boon Check. Roll your current dice and, on a maximum roll, you make a Boon Success. A Boon Success means that next time you work on your boon together you roll the next smaller die instead. Once you reach a d4, you must accumulate 3 Boon Successes by rolling a 4. Once you do so, your boon is fully realized and available for you to use.
 
-You may spend up to 4 hours working together per day, and that means that you get a Boon Success on a max roll or 1 below. So, on a dice of d12, you'd get a Boon Success on an 11 or a 12. Additionally, character interactions, whether in role playing or combat or similar, might grant you a bonus of +1 to the roll. On a d4, no bonuses will help you. 
+You may spend up to 4 hours working together per day, and that means that you get a Boon Success on a max roll or 1 below. So, on a dice of d12, you'd get a Boon Success on an 11 or a 12. Additionally, character interactions, whether in role playing or combat or similar, might grant you a bonus of +1 to ONE Boon Check. On a d4, no bonuses will help you. 
 
 Note: your availability of boons increases with your relationship level (you won't have access to d20 boons right away) and your relationship levels increase in many ways, from roleplaying interactions to working together in battles. 
 
@@ -52,10 +52,6 @@ Requirements: Friendship
 These characters trust each other implicitly and can share their intentions effortlessly.
 
 Requirements: Close Friendship
-
-#### Love Interest
-
-Characters have developed a romantic connection that fuels their strength in times of crisis.
 
 #### Mentorship
 
@@ -130,7 +126,7 @@ Here are the relevant ability modifiers for certain skills
 |Disguise Kit||Charisma|
 |Forgery Kit||Dexterity|
 |Gaming Sets||Dexterity or Wisdom|
-|Glassblower's Tools||Dexterity|
+|Glassblower's Tools||Dexterity|    
 |Healer’s Kit||Wisdom|
 |Herbalism Kit||Wisdom|
 |Jeweler's Tools||Dexterity|
@@ -154,6 +150,7 @@ Granting relationship levels is the result of shared struggles and experiences a
   
 #### Changelog
 
+0.0.8: removed love interest 
 0.0.7: reworked the boons system
 0.0.6: switched boons of friendship and close friendship
 0.0.5: remove being able to choose your ability modifier part
