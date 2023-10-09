@@ -1,6 +1,29 @@
-Version: 0.0.6 (BETA)
+Version: 0.0.7 (BETA)
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
+
+## Advancing through the system
+
+The system is defined by relationship levels, which are listed in the next section.
+
+Most of you will start at acquaintance level with another character. Reaching a new relationship level with another char has a chance to develop into better ways of working together. Once you reach a new relationship level  with someone, work together with them and the dungeon master in order to develop a unique boon for your characters. This could be something like being able to communicate without words, helping each other regardless of proficiency requirements, or adding small bonuses to certain combat actions relevant to your classes. 
+
+Depending on the chosen boon, I will assign a difficulty die, either a dice of d20, d12, d10, d8, d6 or d4. For example, learning to communicate complex messages non-verbally (sign language) could have a difficulty of d8, while learning to work together in combat to grant bonuses to attack rolls might start you with d20 instead.
+
+Then, you need to spend 2 hours every day working on learning whatever it is you want to do together. At the end of 2 hours, do a Boon Check. Roll your current dice and, on a maximum roll, you make a Boon Success. A Boon Success means that next time you work on your boon together you roll the next smaller die instead. Once you reach a d4, you must accumulate 3 Boon Successes by rolling a 4. Once you do so, your boon is fully realized and available for you to use.
+
+You may spend up to 4 hours working together per day, and that means that you get a Boon Success on a max roll or 1 below. So, on a dice of d12, you'd get a Boon Success on an 11 or a 12. Additionally, character interactions, whether in role playing or combat or similar, might grant you a bonus of +1 to the roll. On a d4, no bonuses will help you. 
+
+Note: your availability of boons increases with your relationship level (you won't have access to d20 boons right away) and your relationship levels increase in many ways, from roleplaying interactions to working together in battles. 
+
+
+## Boon Examples
+
+  - (Combat Boon, d20) Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
+  - (Combat Boon, d10) Once per short rest, and when standing next to each other, if an enemy makes makes an attack against either one of you, the non-attacked player can use their reaction to provide the attacked player with a bonus of +1 to AC for that one attack. 
+  - (Ability Boon, d8) You have advantage on insight checks on non-verbal communications between each other (sign language)
+  - (Ability Boon, d6) You can help your ally with an ability check for which you have no proficiency, giving the roll a +1 bonus
+  
 
 ## Relationship Levels
 
@@ -16,17 +39,11 @@ Here are the currently available relationship levels.
 
 Characters have become good friends and can rely on each other in times of need.
 
-  - Once per short rest, and when standing next to each other, if an enemy makes makes an attack against either one of you, the non-attacked player can use their reaction to provide the attacked player with a bonus of +1 to AC for that one attack. 
-
 Requirements: Acquaintance
 
 #### Close Friendship
 
 The bond has deepened to the point where characters actively look out for each other's well-being.    
-
- - Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
- - Whenever one of you makes a ranged attack or a ranged spell attack roll against a target that your friend is facing in melee combat, you get a +1 to your attack roll against that target
-  - Friendship's boons
 
 Requirements: Friendship
 
@@ -34,20 +51,11 @@ Requirements: Friendship
 
 These characters trust each other implicitly and can share their intentions effortlessly.
 
- - You can help your ally with an ability check for which you have no proficiency, giving the roll a +2 bonus
- - Close Friendship's boons
- 
- Requirements: Close Friendship
+Requirements: Close Friendship
 
 #### Love Interest
 
 Characters have developed a romantic connection that fuels their strength in times of crisis.
-
-- Jealously: characters have a +1 to any saving throw made against being charmed by creatures who are not their love interest.
-- Characters proficients in Medicine have advantage on Wisdom checks made to stabilize the other character. If they are not proficient in medicine, they get a +2 to the roll.
-- Trusted Ally's boons
-
-Requirements: Trusted Ally
 
 #### Mentorship
 
@@ -123,7 +131,6 @@ Here are the relevant ability modifiers for certain skills
 |Forgery Kit||Dexterity|
 |Gaming Sets||Dexterity or Wisdom|
 |Glassblower's Tools||Dexterity|
-|Gunsmith's Kit*||Intelligence|
 |Healer’s Kit||Wisdom|
 |Herbalism Kit||Wisdom|
 |Jeweler's Tools||Dexterity|
@@ -134,11 +141,9 @@ Here are the relevant ability modifiers for certain skills
 |Painter's Supplies||Dexterity|
 |Poisoner's Kit||Intelligence|
 |Potter's Tools||Dexterity|
-|Scrollscriber's Supplies*||Intelligence|
 |Smith’s Tools||Strength|
 |Thieves' Tools||Dexterity or Intelligence|
 |Tinker’s Tools||Intelligence|
-|Wandmaker's Tools*||Dexterity, Intelligence,  <br>or Wisdom|
 |Weaver's Tools||Dexterity|
 |Woodcarver's Tools||Dexterity|
 
@@ -149,6 +154,7 @@ Granting relationship levels is the result of shared struggles and experiences a
   
 #### Changelog
 
+0.0.7: reworked the boons system
 0.0.6: switched boons of friendship and close friendship
 0.0.5: remove being able to choose your ability modifier part
 0.0.4: make a fixed number for the required Training Successes
