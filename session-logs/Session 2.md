@@ -1,8 +1,14 @@
-- Darion Copperline | Bard (Yansu)
-- Horvir Panster | Fighter (Craig)
-- Serah Heyman | Cleric (Quinn)
-- Dax | Druid (Panda)
-- Seraphalia Starchild (Raggernstar) | Cleric (Cilona)
+# Session Log #1
+
+## Featuring
+ - Yansu playing as the bard, Darion Copperline
+ - Craig playing as the fighter, Horvir Panster
+ - Quinn playing as the cleric, Serah Heyman
+ - Panda playing as the druid, Dax
+ - Cilona playing as the cleric, Seraphalia Starchild
+ - Sekiro playing as the barbarian, Skarr Vikk
+
+## Events
 
 Year: 1491 DR
 
