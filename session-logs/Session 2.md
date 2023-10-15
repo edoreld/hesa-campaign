@@ -1,8 +1,8 @@
-- Darion Copperline | Bard
-- Horvir Panster | Fighter
-- Serah Heyman | Cleric
-- Dax | Druid
-- Seraphalia Starchild (Raggernstar) | Cleric
+- Darion Copperline | Bard (Yansu)
+- Horvir Panster | Fighter (Craig)
+- Serah Heyman | Cleric (Quinn)
+- Dax | Druid (Panda)
+- Seraphalia Starchild (Raggernstar) | Cleric (Cilona)
 
 Year: 1491 DR
 
@@ -20,5 +20,5 @@ At Phalandin they:
  - Deliver the supplies to the Lionshield trading post
  - Get told by Sildar that he will get a gold reward for them
  - Talk to the townmaster who wants someone to deal with the orcs in Triboar Trail
- - Talk to Sister Garaele in the Shine of Tymora who wants them to be an intermediary to talk to a banshee
+ - Talk to Sister Garaele in the Shrine of Tymora who wants them to be an intermediary to talk to a banshee
  - Learn a few things from talking to locals in the inn
