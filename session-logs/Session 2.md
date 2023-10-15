@@ -19,6 +19,6 @@ At Phalandin they:
  - Deliver the supplies to Barthen's Provisions 
  - Deliver the supplies to the Lionshield trading post
  - Get told by Sildar that he will get a gold reward for them
- - Talk to the mayor who wants someone to deal with the orcs in Triboar Trail
+ - Talk to the townmaster who wants someone to deal with the orcs in Triboar Trail
  - Talk to Sister Garaele in the Shine of Tymora who wants them to be an intermediary to talk to a banshee
  - Learn a few things from talking to locals in the inn
