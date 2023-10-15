@@ -1,4 +1,4 @@
-# Session Log #1
+# Session Log #2
 
 ## Featuring
  - Yansu playing as the bard, Darion Copperline
@@ -6,7 +6,6 @@
  - Quinn playing as the cleric, Serah Heyman
  - Panda playing as the druid, Dax
  - Cilona playing as the cleric, Seraphalia Starchild
- - Sekiro playing as the barbarian, Skarr Vikk
 
 ## Events
 
