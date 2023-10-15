@@ -8,6 +8,8 @@
  - Cilona playing as the cleric, Seraphalia Starchild
  - Sekiro playing as the barbarian, Skarr Vikk
 
+## Events
+
 Year: 1491 DR
 
 Answering the call of your dwarven friend and/or patron **Gundren Rockseeker**, you all gather at the inn of the quacking duck, where a duck steals one of Darion's playing cards. Also, Gungren tells you about a new expedition he's running and how he has need of your particular talents. He wants you to escort some supplies to the town of **Phalandrin**.
