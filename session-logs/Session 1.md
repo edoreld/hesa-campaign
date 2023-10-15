@@ -1,9 +1,9 @@
-- Darion Copperline | Bard
-- Horvir Panster | Fighter
-- Serah Heyman | Cleric
-- Dax | Druid
-- Skarr Vikk | Barbarian
-- Seraphalia Starchild (Raggernstar) | Cleric
+- Yansu playing as the bard, Darion Copperline
+- Craig playing as the fighter, Horvir Panster
+- Quinn playing as the cleric, Serah Heyman
+- Panda playing as the druid, Dax
+- Cilona playing as the cleric, Seraphalia Starchild
+- Sekiro playing as the barbarian, Skarr Vikk
 
 Year: 1491 DR
 
