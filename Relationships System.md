@@ -1,4 +1,4 @@
-Version: 0.0.9 (BETA)
+Version: 1.0.0
 
 Introducing a character-to-character relationship system. As your bond with other players strengthens, so does your ability to fight with them, work with them, etc. 
 
@@ -46,6 +46,7 @@ Requirements: Acquaintance
 
 The bond has deepened to the point where characters actively look out for each other's well-being.    
 Gain a d12 boon
+
 Requirements: Friendship
 
 #### Trusted Ally
@@ -152,6 +153,7 @@ Granting relationship levels is the result of shared struggles and experiences a
   
 #### Changelog
 
+1.0.0: release
 0.0.9: added gained boons to levels
 0.0.8: removed love interest 
 0.0.7: reworked the boons system
