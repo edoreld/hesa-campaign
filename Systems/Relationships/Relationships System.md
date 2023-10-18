@@ -24,6 +24,7 @@ Note: your availability of boons increases with your relationship level (you won
   - (Ability Boon, d8) You have advantage on insight checks on non-verbal communications between each other (sign language)
   - (Ability Boon, d6) You can help your ally with an ability check for which you have no proficiency, giving the roll a +1 bonus
   
+  More examples: 
 
 ## Relationship Levels
 
