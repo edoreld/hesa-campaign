@@ -205,8 +205,8 @@ process depending on whether the concoction is rushed or not.
 | Herbs were collected using Golden Sickle    | -1       |
 | Ingredients: All herbs                      | -1       |
 | Ingredients: Some non-herbs                 | +1       |
-| Time: 2h spent                              | -1       |
-| Time: 4h spent                              | +1       |
+| Time: 2h spent                              | +1       |
+| Time: 4h spent                              | -1       |
 
 Heroes may only test their Herb Lore Special Skill once per day when concocting
 a herbal potion or infusion. A failure means the potion is ineffective though
