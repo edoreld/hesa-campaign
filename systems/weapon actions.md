@@ -100,80 +100,80 @@ Hit an enemy with all your might to deal damage and Daze them.
 **Special:** Creature's Movement speed is reduced to 0  
 Swing at an enemy's legs to deal damage and prevent them from getting away.
 
-**Flourish**
-*Scimitars, Shortswords, and Rapiers*
-**Action Cost:** 1 Bonus Action
-**Damage:** N/A
-**Condition** **Off-Balance**
-**Duration:** Start of your next turn
-Feint an attack to throw your opponent Off Balance.
+**Flourish**  
+*Scimitars, Shortswords, and Rapiers*  
+**Action Cost:** 1 Bonus Action  
+**Damage:** N/A  
+**Condition** **Off-Balance**  
+**Duration:** Start of your next turn  
+Feint an attack to throw your opponent Off Balance.  
 
-**Lacerate**
-*All Weapons that deal Slashing damage*
-**Action Cost:** 1 Attack
-**Damage:** Normal Weapon Damage
-**Condition** **Bleeding**
-**Duration:** End of your next turn
-Slash at your target's vital points to make it bleed.
+**Lacerate**  
+*All Weapons that deal Slashing damage*  
+**Action Cost:** 1 Attack  
+**Damage:** Normal Weapon Damage  
+**Condition** **Bleeding**  
+**Duration:** End of your next turn  
+Slash at your target's vital points to make it bleed.  
 
-**Piercing Strike**
-*Rapiers, Daggers, Shortswords, Tridents, Javelins, and Pikes*
-**Action Cost:** 1 Attack
-**Damage:** Normal Weapon Damage
-**Condition** **Gaping Wound**
-**Duration:** End of your next turn
-Stab an enemy and possibly inflict Gaping Wounds.
+**Piercing Strike**  
+*Rapiers, Daggers, Shortswords, Tridents, Javelins, and Pikes*  
+**Action Cost:** 1 Attack  
+**Damage:** Normal Weapon Damage  
+**Condition** **Gaping Wound**  
+**Duration:** End of your next turn  
+Stab an enemy and possibly inflict Gaping Wounds.  
 
-**Pommel Strike**
-*Longswords and Greatswords*
-**Action Cost:** 1 Bonus Action
-**Damage:** 1d4 + Strength Modifier Bludgeoning
-**Condition** **Dazed**
-**Duration:** End of your next turn
-Bludgeon an enemy with the pommel of your weapon and Daze them.
+**Pommel Strike**  
+*Longswords and Greatswords*  
+**Action Cost:** 1 Bonus Action  
+**Damage:** 1d4 + Strength Modifier Bludgeoning  
+**Condition** **Dazed**  
+**Duration:** End of your next turn  
+Bludgeon an enemy with the pommel of your weapon and Daze them.  
 
-**Prepare**
-*Greataxes*
-**Action Cost:** Special
-**Damage:** N/A
-**Condition:** N/A
-**Duration:** End of your turn
-**Special:** You must spend 20 feet of movement to take this Action.
-You take extra care to ready your weapon and make the most of your strength. You spend 20 feet of movement to cause your attacks to deal extra damage equal to your Strength Modifier until the end of your turn.
+**Prepare**  
+*Greataxes*  
+**Action Cost:** Special  
+**Damage:** N/A  
+**Condition:** N/A  
+**Duration:** End of your turn  
+**Special:** You must spend 20 feet of movement to take this Action.  
+You take extra care to ready your weapon and make the most of your strength. You spend 20 feet of movement to cause your attacks to deal extra damage equal to your Strength Modifier until the end of your turn.  
 
-**Rush Attack**
-*Longswords, Spears, Tridents, Glaives, Halberds, and Pikes*
-**Action Cost:** 1 Attack
-**Damage:** 1d4 + Strength Modifier (Damage type is inherited from the weapon)
-**Condition:** **Off Balance**
-**Duration:** Start of your next turn
+**Rush Attack**  
+*Longswords, Spears, Tridents, Glaives, Halberds, and Pikes*  
+**Action Cost:** 1 Attack  
+**Damage:** 1d4 + Strength Modifier (Damage type is inherited from the weapon)  
+**Condition:** **Off Balance**  
+**Duration:** Start of your next turn  
 **Special:** You must be at least 5 feet away from your target to use this Action. Additionally, this attack causes you to charge up to 20 feet to your target.
-Charge forward and attack the first enemy in your way, pushing them Off Balance. The movement from this action doesn't provoke Opportunity Attacks.
+Charge forward and attack the first enemy in your way, pushing them Off Balance. The movement from this action doesn't provoke Opportunity Attacks.  
 
 **Tenacity**
-*Morningstars, Flails, Greatclubs, Mauls*
-**Action Cost:** 1 Reaction
-**Damage:** Strength Modifier
-**Condition:** N/A
-**Duration:** N/A
-**Special:** You take the reaction in response to missing an attack with the equipped weapon.
-When you miss an attack, deal Bludgeoning damage equal to your Strength Modifier (or a minimum of 1).
+*Morningstars, Flails, Greatclubs, Mauls*  
+**Action Cost:** 1 Reaction  
+**Damage:** Strength Modifier  
+**Condition:** N/A  
+**Duration:** N/A  
+**Special:** You take the reaction in response to missing an attack with the equipped weapon.  
+When you miss an attack, deal Bludgeoning damage equal to your Strength Modifier (or a minimum of 1).  
 
-**Topple**
-*Quarterstaves*
-**Action Cost:** 1 Attack
-**Damage:** N/A
-**Condition:** **Prone**
-**Duration:** N/A
-Swipe at a creature to knock it Prone.
+**Topple**  
+*Quarterstaves*  
+**Action Cost:** 1 Attack  
+**Damage:** N/A  
+**Condition:** **Prone**  
+**Duration:** N/A  
+Swipe at a creature to knock it Prone.  
 
-**Weakening Strikes**
-*Rapiers, Warpicks, Flails, and Warhammers*
-**Action Cost:** 1 Attack
-**Damage:** 1d4 + Strength Modifier (Damage type is inherited from the weapon)
-**Condition:** **Weakened**
-**Duration:** End of your next turn.
-Target an enemy's attacking limbs and inflict Weakened.
+**Weakening Strikes**  
+*Rapiers, Warpicks, Flails, and Warhammers*  
+**Action Cost:** 1 Attack  
+**Damage:** 1d4 + Strength Modifier (Damage type is inherited from the weapon)  
+**Condition:** **Weakened**  
+**Duration:** End of your next turn.  
+Target an enemy's attacking limbs and inflict Weakened.  
 
 ### Ranged Actions
 
