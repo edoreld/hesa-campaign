@@ -177,51 +177,6 @@ Target an enemy's attacking limbs and inflict Weakened.
 
 ### Ranged Actions
 
-**Hamstring Shot**  
-*Shortbows, Longbows, Light Crossbows, Heavy Crossbows, Slings*  
-**Action Cost:** 1 Attack  
-**Damage:** 1d8 + Dexterity Modifier Piercing  
-**Condition** Special  
-**Duration:** Until your next turn  
-**Special:** Target's Movement speed is halved.  
-Fire an arrow that inflicts a painful injury.
-
-**Pierce Armor**  
-*Shortswords, Rapiers, Daggers, and Scimitars*  
-**Action Cost:** 1 attack  
-**Damage:** 1d4 + Dexterity Modifier Piercing  
-**Condition** **Weakened**  
-**Duration:** Until the end of the target's next turn  
-Stab in between the gaps in an enemy's armor to deal damage and Weaken them.
-
-**Pommel Strike**  
-*Greatswords, Greatclubs, Greataxes, and Warhammers*  
-**Action Cost:** 1 attack  
-**Damage:** 1d6 Bludgeoning  
-**Condition** **Concussed**  
-**Duration:** Until your next turn  
-Hit an enemy in the head with the pommel of your weapon to deal damage and Daze them.
-
-**Power Attack**  
-*Battleaxes, Greataxes, Greatclubs, Greathammers, Greatswords, Halberds, and Mauls*  
-**Action Cost:** 1 Attack  
-**Damage:** Normal Weapon Damage + 1d6  
-**Condition** **Gaping Wound**  
-**Duration:** Until the end of the target's next turn  
-**Special:** You gain **Gaping Wound** for your next turn.  
-Swing your weapon with incredible force to deal more damage, and possibly inflict a gaping wound in the target.
-
-**Precision Strike**  
-*Daggers, Shortswords, Rapiers, and Scimitars*  
-**Action Cost:** 1 Attack  
-**Damage:** Normal Weapon Damage - 1d6  
-**Condition** **Off Balance**  
-**Duration:** Until your next turn  
-Attack with a skillful strike to knock your enemy off balance.
-
-### Ranged Actions
-And here we have the Actions for those that prefer to engage from a distance.
-
 **Brace (Ranged)**
 *Longbows and Heavy Crossbows*  
 **Action Cost:** Special  
