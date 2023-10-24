@@ -7,7 +7,9 @@ Find here everything related to Hesa's Campaign
  - Shove is a bonus action
 
  ## Roleplaying
- - Inspiration will given for players who play according to their traits, bonds, flaws and ideals. If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. You can only have one inspiration at a time. [How do I know if I have inspiration (Foundry)?](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-foundry.png)
+ - Inspiration will given for players who play according to their traits, bonds, flaws and ideals. 
+    * If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check to gain advantage on that roll.
+    * You can only have one inspiration at a time. [How do I know if I have inspiration (Foundry)?](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-foundry.png)
  - You can use your Strength modifier instead of your Charisma modifier when making Intimidation checks
 
 ## Other
