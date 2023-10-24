@@ -234,46 +234,46 @@ For a different look at each weapon individually, here is a Table with all the
 Weapons, their Weapon Actions, and a clarifying table for how much Wear the
 weapons should have.
 
-### Melee Weapons 
+### Melee
 
-| Weapon Name                                     | Weapon Actions                              | Wear |
-|-----------------|---------------------------------|---------------------------------|------|
-| Club                  | Concussive Smash                                | 1                                               |
-| Daggers           | Piercing Strike                                      | 1                                               |
-| Handaxes        | Lacerate                                               | 1                                               |
-| Javelins           | Piercing Strike                                      | 1                                               |
-| Light Hammers | Concussive Smash                                | 1                                               |
-| Maces             | Concussive Smash                                | 1                                               |
-| Sickles            | Lacerate                                               | 1                                               |
-| Quarterstaves | Topple                                                 | 1                                               |
-| Spears             | Rush Attack                                         | 1                                               |
-| Greatclubs     | Tenacity, Concussive Smash              | 2                                               |
-| Flails               | Tenacity, Concussive Smash, Weakening Strike | 3 |
-| Morningstars | Tenacity, Concussive Smash, Crippling Strike | 3 |
-| Rapiers           | Piercing Strike, Weakening Strike, Flourish  | 3 |
-| Scimitars      | Lacerate, Flourish                                  | 2                                               |
-| Shortswords   | Flourish, Piercing Strike                      | 2                                               |
-| Warpicks         | Crippling Strike, Piercing Strike, Weakening Strike | 3 |
-| Battleaxes     | Cleave, Lacerate, Crippling Strike              | 3 |
-| Longswords   | Lacerate, Rush Attack, Pommel Strike    | 3 |
-| Tridents           | Rush Attack, Piercing Strike                   | 2 |
-| Warhammers  | Backbreaker, Concussive Smash, Weakening Strike | 3 |
-| Glaives           | Rush Attack, Lacerate, Brace(Melee)        | 3 |
-| Greataxes       | Cleave, Lacerate, Prepare                     | 3 |
-| Greatswords    | Cleave, Lacerate, Pommel Strike             | 3 |
-| Halberds         | Rush Attack, Lacerate, Cleave                   | 3 |
-| Mauls              | Tenacity, Backbreaker, Concussive Smash | 3 |
-| Pikes               | Rush Attack, Piercing Strike, Brace(Melee) | 3 |
+| Weapon Name   | Weapon Actions                                      | Wear |
+| ------------- | --------------------------------------------------- | ---- |
+| Club          | Concussive Smash                                    | 1    |
+| Daggers       | Piercing Strike                                     | 1    |
+| Handaxes      | Lacerate                                            | 1    |
+| Javelins      | Piercing Strike                                     | 1    |
+| Light Hammers | Concussive Smash                                    | 1    |
+| Maces         | Concussive Smash                                    | 1    |
+| Sickles       | Lacerate                                            | 1    |
+| Quarterstaves | Topple                                              | 1    |
+| Spears        | Rush Attack                                         | 1    |
+| Greatclubs    | Tenacity, Concussive Smash                          | 2    |
+| Flails        | Tenacity, Concussive Smash, Weakening Strike        | 3    |
+| Morningstars  | Tenacity, Concussive Smash, Crippling Strike        | 3    |
+| Rapiers       | Piercing Strike, Weakening Strike, Flourish         | 3    |
+| Scimitars     | Lacerate, Flourish                                  | 2    |
+| Shortswords   | Flourish, Piercing Strike                           | 2    |
+| Warpicks      | Crippling Strike, Piercing Strike, Weakening Strike | 3    |
+| Battleaxes    | Cleave, Lacerate, Crippling Strike                  | 3    |
+| Longswords    | Lacerate, Rush Attack, Pommel Strike                | 3    |
+| Tridents      | Rush Attack, Piercing Strike                        | 2    |
+| Warhammers    | Backbreaker, Concussive Smash, Weakening Strike     | 3    |
+| Glaives       | Rush Attack, Lacerate, Brace(Melee)                 | 3    |
+| Greataxes     | Cleave, Lacerate, Prepare                           | 3    |
+| Greatswords   | Cleave, Lacerate, Pommel Strike                     | 3    |
+| Halberds      | Rush Attack, Lacerate, Cleave                       | 3    |
+| Mauls         | Tenacity, Backbreaker, Concussive Smash             | 3    |
+| Pikes         | Rush Attack, Piercing Strike, Brace(Melee)          | 3    |
 
 ### Ranged Weapons
 
-| Weapon Name                                  | Weapon Actions                          | Wear |
-|-----------------------|-------------------------------|-------------------------------|------|
-| Blowguns                  | Mobile Shot, Venom Shot               | 2                                              |
-| Darts                        | Piercing Shot, Venom Shot               | 2                                              |
-| Light Crossbows     | Piercing Shot                                | 1                                              |
-| Short Bows              | Hamstring Shot                             | 1                                              |
-| Hand Crossbows     | Piercing Shot, Mobile Shot           | 2                                              |
-| Heavy Crossbows    | Piercing Shot, Brace(Ranged)        | 2                                              |
-| Longbows                | Hamstring Shot, Brace(Ranged)    | 2                                              |
-| Slings                      | Weighted Bullet                              | 1                                              |
+| Weapon Name     | Weapon Actions                | Wear |
+| --------------- | ----------------------------- | ---- |
+| Blowguns        | Mobile Shot, Venom Shot       | 2    |
+| Darts           | Piercing Shot, Venom Shot     | 2    |
+| Light Crossbows | Piercing Shot                 | 1    |
+| Short Bows      | Hamstring Shot                | 1    |
+| Hand Crossbows  | Piercing Shot, Mobile Shot    | 2    |
+| Heavy Crossbows | Piercing Shot, Brace(Ranged)  | 2    |
+| Longbows        | Hamstring Shot, Brace(Ranged) | 2    |
+| Slings          | Weighted Bullet               | 1    |                             |
