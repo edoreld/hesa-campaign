@@ -234,7 +234,9 @@ For a different look at each weapon individually, here is a Table with all the
 Weapons, their Weapon Actions, and a clarifying table for how much Wear the
 weapons should have.
 
-| Melee Weapons   | Weapon Name                                     | Weapon Actions                              | Wear |
+### Melee Weapons 
+
+| Weapon Name                                     | Weapon Actions                              | Wear |
 |-----------------|---------------------------------|---------------------------------|------|
 | Club                  | Concussive Smash                                | 1                                               |
 | Daggers           | Piercing Strike                                      | 1                                               |
@@ -263,8 +265,9 @@ weapons should have.
 | Mauls              | Tenacity, Backbreaker, Concussive Smash | 3 |
 | Pikes               | Rush Attack, Piercing Strike, Brace(Melee) | 3 |
 
+### Ranged Weapons
 
-| Ranged Weapons       | Weapon Name                                  | Weapon Actions                          | Wear |
+| Weapon Name                                  | Weapon Actions                          | Wear |
 |-----------------------|-------------------------------|-------------------------------|------|
 | Blowguns                  | Mobile Shot, Venom Shot               | 2                                              |
 | Darts                        | Piercing Shot, Venom Shot               | 2                                              |
