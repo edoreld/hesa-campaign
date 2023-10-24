@@ -10,7 +10,13 @@ Find here everything related to Hesa's Campaign
  - Inspiration will given for players who play according to their traits, bonds, flaws and ideals. If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. You can only have one inspiration at a time. [How do I know if I have inspiration (Foundry)?](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-foundry.png)
  - You can use your Strength modifier instead of your Charisma modifier when making Intimidation checks
 
- ## Removed
+## Other
+ - Encumbrance: 
+    1. If you carry weight in excess of 5 times your Strength score, you are encumbered, which means your speed drops by 10 feet. 
+    2. If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead heavily encumbered, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+    3. Armor weighs half as much when worn
+
+## Removed
   - No Silvery Barbs
 
 # House Flavors
