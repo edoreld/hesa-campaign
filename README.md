@@ -41,3 +41,5 @@ Find here everything related to Hesa's Campaign
  # BG3 Weapon Rules
 
  Your weapons have special abilities
+
+ Link: https://github.com/edoreld/hesa-campaign/blob/main/systems/weapon%20actions.md
