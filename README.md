@@ -22,9 +22,13 @@ Find here everything related to Hesa's Campaign
 
  A system for building player friendships, mentorships and developing bonds.
 
+ Link: https://github.com/edoreld/hesa-campaign/blob/main/Systems/relationships/relationships.md
+
  # Herbalism
 
  A system for finding, identifying, and preparing herbs and making potions with them
+
+ Link: https://github.com/edoreld/hesa-campaign/blob/main/Systems/Herbalism.md
 
  # BG3 Weapon Rules
 
