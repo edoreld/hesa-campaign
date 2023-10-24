@@ -9,7 +9,9 @@ Find here everything related to Hesa's Campaign
  ## Roleplaying
  - Inspiration will given for players who play according to their traits, bonds, flaws and ideals. 
     * If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check to gain advantage on that roll.
-    * You can only have one inspiration at a time. [How do I know if I have inspiration (Foundry)?](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-foundry.png)
+    * You can only have one inspiration at a time. 
+        - [How do I know if I have inspiration (Foundry)?](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-foundry.png)
+        - [How do I know if I have inspiration (D&D Beyond)](https://github.com/edoreld/hesa-campaign/blob/main/pics/inspiration-beyond.png)
  - You can use your Strength modifier instead of your Charisma modifier when making Intimidation checks
 
 ## Other
