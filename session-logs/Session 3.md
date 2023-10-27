@@ -14,7 +14,7 @@
 
 After spending a night camping/sleeping at the inn, the party wakes up to find an herbalist riding a wagon into a town. They hire her services and some of the party learn to gather useful herbs for alchemy, while Skarr performs a masterful hunt of a doe.
 
-Then, the party comes back to town where they are confronted by a band of red-cloaked bandits. A fight ensues and 3 of the bandits die. The party captures and interrogates one of them and find information about their leader who's called Glassstaff, and about the Black Spider ordering the bandits to threaten villagers. The captured bandit also says to be beware of the "eye monster" and says the kidnapped family is in their hideout under Tresendar Manor.
+Then, the party comes back to town where they are confronted by a band of red-cloaked bandits. A fight ensues and 3 of the bandits die. The party captures and interrogates one of them and find information about their leader who's called Glasstaff, and about the Black Spider ordering the bandits to threaten villagers. The captured bandit also says to be beware of the "eye monster" and says the kidnapped family is in their hideout under Tresendar Manor.
 
 Seraphalia goes looks for Sildar and brings him back to the bandit, where he reveals an additional piece of info that the leader is in the northwest part of the hideout. Then, Dax asks Sildar for a reward for clearing the hideout, and Sildar points him to the Miner's Exchange. There, they meet with Halia, the boss of the place. Then, they ask if she offers a reward for clearing the Redbrand hideout. 
 
