@@ -19,12 +19,7 @@ Note: your availability of boons increases with your relationship level (you won
 
 ## Boon Examples
 
-  - (Combat Boon, d20) Whenever you both are facing an enemy that you both can reach with your weapon in melee range, and you are not currently flanking, you may add +1 to your attack roll against that target. 
-  - (Combat Boon, d10) Once per short rest, and when standing next to each other, if an enemy makes makes an attack against either one of you, the non-attacked player can use their reaction to provide the attacked player with a bonus of +1 to AC for that one attack. 
-  - (Ability Boon, d8) You have advantage on insight checks on non-verbal communications between each other (sign language)
-  - (Ability Boon, d6) You can help your ally with an ability check for which you have no proficiency, giving the roll a +1 bonus
-  
-  More examples: https://github.com/edoreld/hesa-campaign/blob/main/systems/relationships/examples.md
+https://github.com/edoreld/hesa-campaign/blob/main/systems/relationships/examples.md
 
 ## Relationship Levels
 
