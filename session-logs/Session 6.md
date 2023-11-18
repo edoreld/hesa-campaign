@@ -1,4 +1,6 @@
-# Session Log #5
+# Session Log #6
+
+17-18th Nov 1491 DR
 
 ## Featuring
  - Yansu playing as the bard, Darion Copperline
@@ -9,8 +11,6 @@
  - Sekiro playing as the barbarian, Skarr Vikk
 
 ## Events
-
- - Year: 1491 DR
 
 The party generously sacrifices a lot of gold in order to have their barbarian friend Skarr resurrected by Sister Garaele. After some talk, they head out to the mayor's house, where they deliver Glasstaff/Iarno and find out a bunch of info about the Black Spider, such that he's a dark elf, and that he's searching Wave Echo Cave for the Forge of Spells. 
 
