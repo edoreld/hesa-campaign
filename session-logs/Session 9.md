@@ -1,5 +1,5 @@
 Session Log #9
-21th Nov 1491 DR
+21st Nov 1491 DR
 
 Featuring
 Yansu playing as the bard, Darion Copperline
