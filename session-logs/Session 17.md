@@ -1,0 +1,24 @@
+8th Oct 1491 DR
+
+Featuring
+Quinn playing as the cleric, Serah Heyman 
+Sekiro playing as the barbarian, Skarr Vikk 
+Yansu playing as the sorcerer, Phobos
+
+## Events
+
+The party continue their exploration of the house. They come across an animated armor that attack them, and a mysterious stranger called Phobos comes to their aid. Afterwards, they decide to continue exploring together. They enter a room with a mirror that shows not their reflection but rather that of a woman who mimics their movements - except for her eyes, which look terrified. They manage to communicate with her using eye movements to signal yes and no, but don't manage to find out much about her. Afterwards, they find a journal of a nursemaid describing an affair between her and the master of the house that led to the birth of Walter, a bastard son.
+
+They enter another room which turns out to be a nursery. A woman shrouded in black, her back turned towards them. They try to talk to her and she turns back, her face that of a skeletal young woman, chunks of flesh falling off to the ground until all flesh is gone and a specter is left. She mostly ignores them, instead rocking a crib. The party give her a toy for the baby, which convinces the specter to let them take a look inside the crib. They look and they see a bunch of wrapped blankets. They open the blanket but no baby is there, and when Serah turns to talk to the specter, she's gone.
+They go up another floor and open a locked door with the key they found in the library. They find two child skeletons, a doll house that looks like the house they are in, and a trunk. They try to check the house and suddenly the specters of the children they found outside the house rise from the skeletons. They talk to them and find that the girl was a self-taught wizard who learned a few spells by experimentation.
+
+They girl and the boy try to hug the party and Skarr and Serah welcome them into their bodies, where they take on some of the aspects of the kids' personality. Afterward, they head to another room. They find an unlocked chest containing some bones with the dress of a nursemaid. When they try to move them, the specter from the nursery appears and attacks them. A fight ensues and the party comes out victorious and carry the bones.
+
+Then, they find a secret passage that leads them to the basement. They find named crypts and bury the bones of the children there, which makes them feel really inspired. Afterwards, they find a bunch of beds and loot a bunch of chests. They fight some ghoul and come across a room with the paintings of the master and mistress of the house as well as a chest. They try to loot the chest but get attacked by ghasts hiding behind the paintings, presumably the deceased Mr. and Mrs. Durst.
+
+After that fight, they head further down the basement, where they hear the chanting of "He is the ancient, He is the land", over and over. 
+
+They find a room with a bunch of ritual items which they decide not to touch. Then, they come across a secret passage into a room with an altar. Many figures inside chant "One must die" and mist starts filtering in through holes in the walls. Serah realizes the figures want them to sacrifice someone, but they refuse. The figures then summon a demon-like creature, an enhanced shambling mound, that attacks the party. The party assault it with powerful spells, though the creature seems mostly unaffected. The creature swallows Skarr, and eventually Skarr is able to see the corpse of a baby inside the creature, identifying it as baby Walter. He makes attacks so as to free the baby and as he does so, the shambling mound dissolves and the party is filled with a sense of peace as the spirit of baby Walter passes into the beyond.
+
+Then they try to escape the house, but at that point it has turned into a deadly trap, with all windows bricked, swinging blades instead of doors and rooms filled with poisonous smoke. They somehow make it through and come out mostly unhurt. Then, they find a table with a bottle of wine and a note that says "Welcome to Barovia" and signed with a cursive S. There's also 3 sarcophagi, and when they open them they find the bodies of Dax, Horvir and Darion. When they look back at what they thought were their companions, their shapes are melting into the ground.
+After the escape, the mist has considerably diminished in intensity. The party travels for a bit on a muddy roadway, fighting a crazed druid woman on the way, then make camp which goes pretty well. They take a long rest and then Skarr tries unsuccessfully to hunt some game. The party travel for 3 hours without much trouble, and eventually come across some gates flanked by giant statues...
