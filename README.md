@@ -28,8 +28,10 @@ Find here everything related to Hesa's Campaign
 
  Link: https://github.com/edoreld/hesa-campaign/blob/main/systems/herbalism.md
 
- # BG3 Weapon Rules
+ # BG3 Weapon Rules 
 
- Your weapons have special abilities
+ Your weapons have special abilities. 
+ 
+ To use your weapon's new special abilities, make sure to unequip and re-equip them in Foundry. This should add the associated weapon actions to your character sheet. Then, you can use them as usual.
 
  Link: https://github.com/edoreld/hesa-campaign/blob/main/systems/weapon%20actions.md
