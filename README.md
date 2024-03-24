@@ -22,12 +22,6 @@ Find here everything related to Hesa's Campaign
  - Necromancy is not seen as inherently evil
  - Maps are an artisanal craft and need to be bought
 
- # Relationships
-
- A system for building player friendships, mentorships and developing bonds.
-
- Link: https://github.com/edoreld/hesa-campaign/blob/main/systems/relationships/relationships.md
-
  # Herbalism
 
  A system for finding, identifying, and preparing herbs and making potions with them
