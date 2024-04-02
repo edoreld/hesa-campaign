@@ -1,10 +1,10 @@
 17th Oct 1491 DR
 
 Featuring
-Quinn, playing as the cleric, Serah Heyman 
-Alex, playing as the fighter Hawk
-Cosmo, playing as the monk Allian
-Jon, playing as the sorcerer Harromir Dunzch
+Quinn, playing as the cleric, Serah Heyman   
+Alex, playing as the fighter Hawk  
+Cosmo, playing as the monk Allian  
+Jon, playing as the sorcerer Harromir Dunzch  
 
 The party decide to take Lady Fidatov up on her offer with the hope of finding a solution in the morning. They head out of her office and meet an Elvish looking fighter named Hawk, who has apparently saved the life of one of the nobles coming to the party. Shortly thereafter, a duergar monk called Allian comes out of the kitchen with a half-made sandwich and a bottle of wine, for which he pays some money to Lady Fidatov. The monk and the fighter join the party.
 
