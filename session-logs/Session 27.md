@@ -1,6 +1,6 @@
 17th Oct 1491 DR
 
-Featuring
+Featuring  
 Quinn, playing as the cleric, Serah Heyman   
 Alex, playing as the fighter Hawk  
 Cosmo, playing as the monk Allian  
