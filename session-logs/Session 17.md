@@ -1,4 +1,4 @@
-8th Oct 1491 DR
+8th-9th Oct 1491 DR
 
 Featuring
 Quinn playing as the cleric, Serah Heyman 

@@ -1,14 +1,12 @@
-# Session Log #6
-
 17-18th Nov 1491 DR
 
 ## Featuring
- - Yansu playing as the bard, Darion Copperline
- - Craig playing as the fighter, Horvir Panster
- - Quinn playing as the cleric, Serah Heyman
- - Panda playing as the druid, Dax
+ - Yansu playing as the bard, [[Darion Copperline]]
+ - Craig playing as the fighter, [[Horvir Panster]]
+ - Quinn playing as the cleric, [[Serah Heyman]]
+ - Panda playing as the druid, [[Dax]]
  - Cilona playing as the cleric, Seraphalia Starchild
- - Sekiro playing as the barbarian, Skarr Vikk
+ - Sekiro playing as the barbarian, [[Skarr Vikk]]
 
 ## Events
 

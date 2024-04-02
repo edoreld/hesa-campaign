@@ -1,11 +1,9 @@
-# Session Log #4
-
 ## Featuring
- - Craig playing as the fighter, Horvir Panster
- - Quinn playing as the cleric, Serah Heyman
- - Panda playing as the druid, Dax
+ - Craig playing as the fighter, [[Horvir Panster]]
+ - Quinn playing as the cleric, [[Serah Heyman]]
+ - Panda playing as the druid, [[Dax]]
  - Cilona playing as the cleric, Seraphalia Starchild
- - Sekiro playing as the barbarian, Skarr Vikk
+ - Sekiro playing as the barbarian, [[Skarr Vikk]]
 
 ## Events
 

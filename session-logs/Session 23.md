@@ -1,5 +1,5 @@
 Session Log #23
-10th-12th Oct 1491 DR
+13th-15th Oct 1491 DR
 
 Featuring
 Quinn playing as the cleric, Serah Heyman 

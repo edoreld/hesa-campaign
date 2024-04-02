@@ -1,12 +1,11 @@
-Session Log #10
-21nd Nov 1491 DR
+21th Nov 1491 DR
 
 Featuring
-Yansu playing as the bard, Darion Copperline
-Craig playing as the fighter, Horvir Panster
-Quinn playing as the cleric, Serah Heyman
-Panda playing as the druid, Dax
-Sekiro playing as the barbarian, Skarr Vikk
+Yansu playing as the bard, [[Darion Copperline]]
+Craig playing as the fighter, [[Horvir Panster]]
+Quinn playing as the cleric, [[Serah Heyman]]
+Panda playing as the druid, [[Dax]]
+Sekiro playing as the barbarian, [[Skarr Vikk]]
 
 # Events
 
